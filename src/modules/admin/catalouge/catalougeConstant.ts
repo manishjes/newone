@@ -1,0 +1,32 @@
+const message ={
+    cuisineExists: `this cuisine is allready exists `,
+    cuisineFailed: `failed to add cuisine type`,
+    cuisineAdded : `cuisine added successfully`,
+    cuisineUpdated: `cuisine updated successfully`,
+    cuisineDetail: `cuisine detail get successfully`,
+    cuisineListSuccess: `cuisine listed successfully`,
+    cuisineDeleted: `cuisine deleted successfully`,
+    catagoryExists: `category exists`,
+    categoryFailed: `failed to add category`,
+    categoryAdded: `category added successfully`,
+    categoryUpdated: `category updated successfully`,
+    categoryListSuccess: `category listed successfully`,
+    categoryDetailSuccess: `get category detail successfully`,
+    categoryDeleted: `category deleted successfully`,
+    foodtypeExists: `this foodtype is allready exists`,
+    foodtypeAdded: `foodtype added successfully`,
+    foodtypeFailed: `failed to add foodtype`,
+    foodtypeUpdated: `foodtype updated successfully`,
+    foodtypelisted: `foodtype listed successfully`,
+    foodtypeDetail: `foodtype detail get successfully`,
+    foodtypedeleted: `foodtype deleted successfully`,
+    ingredientExists: `this ingredient is allready exists`,
+    ingredientFailed : `failed to add ingredient`,
+    ingredientAdded : `ingredient added successfully`,
+    ingredientUpdated: `ingredient updated successfully`,
+    ingredientList: `ingredient list successfully`,
+    ingredientDetail: `ingredient detail get successfully`,
+    ingredientDeleted: `ingredient deleted successsfully`
+}
+
+export default message
